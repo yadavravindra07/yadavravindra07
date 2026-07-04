@@ -24,3 +24,9 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/yadavravindra07
+  
+## 📊 GitHub Stats
+
+![Ravindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavravindra07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavravindra07&layout=compact&theme=tokyonight)
