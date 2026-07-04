@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Ravindra Yadav
 
-<!--
-**yadavravindra07/yadavravindra07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-Year Electronics & Telecommunication Engineering Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about Embedded Systems, IoT, Arduino, and VLSI
+- 🌱 Currently learning PCB Design, MATLAB, and Git/GitHub
+- 🎯 Interested in Electronics, Automation, and Embedded Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C
+- C++
+- Embedded C
+- Arduino
+- ESP8266
+- MATLAB
+- Git & GitHub
+
+## 📂 Featured Projects
+- 🔋 Footstep Power Generation System
+- 🌍 IoT Air Pollution Monitoring System
+- 🚗 RFID Toll Tax Collection System
+
+## 📫 Connect with Me
+- GitHub: https://github.com/yadavravindra07
