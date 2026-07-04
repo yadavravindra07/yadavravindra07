@@ -2,10 +2,15 @@
 
 🎓 Fourth-Year Electronics & Telecommunication Engineering Student
 
+---
+
 ## 🚀 About Me
+
 - 💻 Passionate about Embedded Systems, IoT, Arduino, and VLSI
 - 🌱 Currently learning PCB Design, MATLAB, and Git/GitHub
 - 🎯 Interested in Electronics, Automation, and Embedded Programming
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -17,16 +22,34 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-## 📂 Featured Projects
+---
+
+## 🎓 Education
+
+**B.E. Electronics & Telecommunication Engineering**  
+Fourth Year
+
+---
+
+## 🚀 Featured Projects
+
 - 🔋 Footstep Power Generation System
 - 🌍 IoT Air Pollution Monitoring System
 - 🚗 RFID Toll Tax Collection System
+- 📡 VLSI Digital Design Projects
+
+---
+
+## 🎯 Interests
+
+- Embedded Systems
+- Internet of Things (IoT)
+- PCB Design
+- VLSI Design
+- Arduino Programming
+
+---
 
 ## 📫 Connect with Me
+
 - GitHub: https://github.com/yadavravindra07
-  
-## 📊 GitHub Stats
-
-![Ravindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavravindra07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavravindra07&layout=compact&theme=tokyonight)
